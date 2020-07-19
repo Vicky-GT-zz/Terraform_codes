@@ -1,2 +1,1 @@
-# Terraform_codes
-Terraform_codes
+This repository contains a simple code to create two tier infrastructure in AWS 
